@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  NewsFeed
+
+  Created by o.sinev on 20.09.2020.
+  Copyright © 2020 o.sinev. All rights reserved.
+*/
+
+"Settings" = "Settings";
+"Feed" = "Feed";
+"Sources" = "Sources";
+"Update period" = "Update period";
+"No sources" = "Please select at least one source in settings";
+"Display cached news" = "Oh boy! Showing cached news";

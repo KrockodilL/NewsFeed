@@ -1,0 +1,6 @@
+framework module LeakDetector {
+  umbrella header "LeakDetector-umbrella.h"
+
+  export *
+  module * { export * }
+}

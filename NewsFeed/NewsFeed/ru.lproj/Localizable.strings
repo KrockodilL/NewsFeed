@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  NewsFeed
+
+  Created by o.sinev on 20.09.2020.
+  Copyright © 2020 o.sinev. All rights reserved.
+*/
+
+"Settings" = "Настройки";
+"Feed" = "Лента";
+"Sources" = "Источники";
+"Update period" = "Период обновления ленты";
+"No sources" = "Не выбраны источники";
+"Display cached news" = "Что-то случилось. Показываем сохраненные новости";

@@ -1,0 +1,68 @@
+PODS:
+  - Dip (7.1.1)
+  - Kingfisher (5.12.0):
+    - Kingfisher/Core (= 5.12.0)
+  - Kingfisher/Core (5.12.0)
+  - LeakDetector (1.0.0):
+    - LeakDetector/Core (= 1.0.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - LeakDetector/Core (1.0.0):
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - PinLayout (1.9.2)
+  - R.swift (5.1.0):
+    - R.swift.Library (~> 5.1.0)
+  - R.swift.Library (5.1.0)
+  - Realm (5.4.2):
+    - Realm/Headers (= 5.4.2)
+  - Realm/Headers (5.4.2)
+  - RealmSwift (5.4.2):
+    - Realm (= 5.4.2)
+  - RxCocoa (5.1.0):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.0)
+
+DEPENDENCIES:
+  - Dip
+  - Kingfisher (= 5.12)
+  - LeakDetector (~> 1.0.0)
+  - PinLayout
+  - R.swift (= 5.1.0)
+  - RealmSwift
+  - RxCocoa (= 5.1.0)
+  - RxSwift (= 5.1.0)
+
+SPEC REPOS:
+  trunk:
+    - Dip
+    - Kingfisher
+    - LeakDetector
+    - PinLayout
+    - R.swift
+    - R.swift.Library
+    - Realm
+    - RealmSwift
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Dip: 6bebb09d50f88633039ce2c9fe5bc56d387b492f
+  Kingfisher: dc6e0f53bb5b12c3e75bedb0e01bbd7a640eea69
+  LeakDetector: d4f7e357dfe1d89b8da35eb9133f48807981fd39
+  PinLayout: 0d96022e46e8b80468d819f182a393b97ca038da
+  R.swift: 8cbc4fc69b740305b6a17c8a8ed968eb788962d9
+  R.swift.Library: fa85ce1e0d0b7e818cd9e080df910ba54d2776cc
+  Realm: ced868eb0254f8d33a21c06981355e5aa33bc005
+  RealmSwift: aedc4363150f3c61f91ae0537ed116d2d080a4dd
+  RxCocoa: 13d2a4d7546a34b8ececae8c281e4ea1dbb94f2b
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: ad5874f24bb0dbffd1e9bb8443604e3578796c7a
+
+PODFILE CHECKSUM: 1bcc179d9f314deb485a0463cbcae4ccdbe29cc5
+
+COCOAPODS: 1.9.3

@@ -1,0 +1,21 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '13.0'
+
+target 'NewsFeed' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Layout
+  pod 'PinLayout'
+  # Dependency Injection
+  pod 'Dip'
+  # Rx
+  pod 'RxCocoa', '5.1.0'
+  pod 'RxSwift', '5.1.0'
+  # Resources
+  pod 'R.swift', '5.1.0'
+  pod 'Kingfisher', '5.12'
+  # Storage
+  pod 'RealmSwift'
+
+end
